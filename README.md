@@ -1,7 +1,6 @@
 
 
-<img align="right" alt="Coding" width="380" src="https://miro.medium.com/max/924/1*dXGDvAjiOmctAdDvYP38Ew.gif">
-
+<img align="center" alt="Coding" width="380" src="https://miro.medium.com/max/924/1*dXGDvAjiOmctAdDvYP38Ew.gif">
 
 # IBM-Project-31518-1660201375
 
