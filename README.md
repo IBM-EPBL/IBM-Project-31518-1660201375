@@ -5,7 +5,7 @@
 # IBM-Project-31518-1660201375
 
 
-|      **Project Name**     | Skill And Job Recommender |
+|      **Project Name**     | Skill / Job Recommender Application |
 |:---------------------:|:------------------------------:|
 |         **Domain**        |  Cloud Application Development |
 |        **Team ID**        |  PNT2022TMID30108 |
@@ -16,10 +16,10 @@
 
 |Team Leader :| PERIYARDHASNA D|
 | ------------|---------------|              
-|Team member 1 :| SRI ANNAMALAI J|
-|Team member 2 :| MOHEETH S|
-|Team member 3 :| NAGABUSHAN D|
-|Team member 4 :| INBARAJ S|
+|Team Member 1 :| SRI ANNAMALAI J|
+|Team Member 2 :| MOHEETH S|
+|Team Member 3 :| NAGABUSHAN D|
+|Team Member 4 :| INBARAJ S|
 
 ## Project Description:
 To develop an end-to-end web application capable of displaying the current job openings based on the user skillset, by user and their information are stored in the Database.  An alert is sent when there is an opening based on the user skillset. Users will interact with the chatbot and can get the recommendations based on their skills. We can use a job search API to get the current job openings in the market which will fetch the data directly from the webpage.
